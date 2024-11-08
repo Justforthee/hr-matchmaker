@@ -183,5 +183,5 @@ For technical issues:
 
 ## License
 
-[Specify License Type]
+MIT License
  
