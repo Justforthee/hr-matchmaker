@@ -1,0 +1,16 @@
+###Use python 3.11 version
+## python3.11 -m venv thevenv
+pandas>=1.5.0
+scikit-learn>=1.0.0
+numpy>=1.21.0
+streamlit>=1.24.0
+plotly==5.18.0
+watchdog>=2.1.0
+transformers>=4.35.0
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch>=2.1.0
+sentence-transformers>=2.2.0
+pyyaml>=6.0.0
+huggingface-hub==0.19.4
+setuptools>=65.5.1
+spacy<3.0.0,>=2.3.0

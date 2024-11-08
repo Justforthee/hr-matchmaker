@@ -1,0 +1,4 @@
+.DS_Store
+models/screening_model.pkl
+logs/screening.log
+logs/screening.log.*
